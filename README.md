@@ -85,7 +85,7 @@ The teacher has access to each student’s marks for the assessment and these wi
 
 
 ### Demo/Testing Video
-To view a demo of this application, you can watch the [testing videos](https://www.youtube.com/playlist?list=PLyM6MY7dgsClciIDk9YyttyGTbSItXfeo)
+To view a demo of this application, you can watch the [testing videos here](https://www.youtube.com/playlist?list=PLyM6MY7dgsClciIDk9YyttyGTbSItXfeo).
 
 
 ## Future Development
