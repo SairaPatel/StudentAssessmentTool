@@ -79,12 +79,7 @@ The teacher has access to each student’s marks for the assessment and these wi
 <img src="https://github.com/user-attachments/assets/34c9e704-ef1d-40fb-b897-8b486068357e" width="570"/>
 
 
-## Preview
-
-### Teacher
-
-
-### Demo/Testing Video
+## Demo/Testing Video
 To view a demo of this application, you can watch the [testing videos here](https://www.youtube.com/playlist?list=PLyM6MY7dgsClciIDk9YyttyGTbSItXfeo).
 
 
